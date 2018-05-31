@@ -1,10 +1,29 @@
 # PythonDays 2018
 
-Kde: [Gymnázium Viliama Paulinyho-Tótha](http://gymmt.sk/)
+Ahoj, ak pozeras tento link, je mozne ze si sa zucastnil/a mojho workshopu `Uvod do DataScience v Pythone`.
+V tomto repozitari najdes vsetky ulohy ktore sme spolu riesili (prazdne aj vzorove priklady).
 
-Kedy: 31.05.2018
+Ak by si mal/a nejake otazky nevahaj ma kontaktovat na [facebooku](https://www.facebook.com/dubecj).
 
+Struktura repozitara
 
+- `data/`: datasety
+- `notebooks`: Jupyter Notebooky
+- `presentations`: Prezentacie
+
+## Instalacia
+
+Potrebujes mat nainstalovany Python3 a v priecinku tohoto repozitara pustit: `pip install -r requirements.txt`.
+
+## Spustenie
+
+V priecinku repozitara spustis prikaz `jupyter notebook`.
+
+V pripade ze by to neslo na tvojom pocitaci mozes to skusit priamo z tvojho prehliadaca na nasledujucih odkazoch:
+
+- [1. NumPy](https://www.kaggle.com/jakubdubec/students-1-numpy)
+- [2. Avengers BMI](https://www.kaggle.com/jakubdubec/students-2-avengers-bmi)
+- [3. GoT](https://www.kaggle.com/jakubdubec/students-3-game-of-thrones)
 
 ## Datasety
 
