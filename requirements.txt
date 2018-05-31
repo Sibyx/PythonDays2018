@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+plotly
+matplotlib
+scipy
+seaborn
+requests
+ipykernel
